@@ -1,0 +1,13 @@
+commit 90a83a0ad22c70dcd536da368dfa4807f4151fa0
+Author: sathibabu <sathiram0291@gmail.com>
+Date:   Mon Aug 1 19:35:30 2016 +0530
+
+    This is sneha story
+
+diff --git a/sneha.c b/sneha.c
+new file mode 100644
+index 0000000..348b958
+--- /dev/null
++++ b/sneha.c
+@@ -0,0 +1 @@
++ sneha loves omkar
