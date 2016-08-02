@@ -1,13 +1,36 @@
-commit 90a83a0ad22c70dcd536da368dfa4807f4151fa0
+commit 76204f3e6aed8958708f30585f69e911f0a81a7c
 Author: sathibabu <sathiram0291@gmail.com>
-Date:   Mon Aug 1 19:35:30 2016 +0530
+Date:   Mon Aug 1 22:18:19 2016 +0530
 
-    This is sneha story
+    patch
 
-diff --git a/sneha.c b/sneha.c
+diff --git a/s.patch b/s.patch
 new file mode 100644
-index 0000000..348b958
+index 0000000..6685401
 --- /dev/null
++++ b/s.patch
+@@ -0,0 +1,13 @@
++commit 90a83a0ad22c70dcd536da368dfa4807f4151fa0
++Author: sathibabu <sathiram0291@gmail.com>
++Date:   Mon Aug 1 19:35:30 2016 +0530
++
++    This is sneha story
++
++diff --git a/sneha.c b/sneha.c
++new file mode 100644
++index 0000000..348b958
++--- /dev/null
+++++ b/sneha.c
++@@ -0,0 +1 @@
+++ sneha loves omkar
+diff --git a/sneha.c b/sneha.c
+index 348b958..4af0516 100644
+--- a/sneha.c
 +++ b/sneha.c
-@@ -0,0 +1 @@
-+ sneha loves omkar
+@@ -1 +1,6 @@
+  sneha loves omkar
++
++ ramya hates me
++
++
++ malleshwari hates
